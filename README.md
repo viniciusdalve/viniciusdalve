@@ -1,4 +1,4 @@
-<h1 align="center">Hello Word! I'm Vinícius Alves</h1>
+<h1 align="center">Hello Word! I'm Vinícius Santos</h1>
 <h3 align="center">I am currently studying Systems Devevolpment and Analys, looking for job opportunities.</h3>
 
 - 🌱 I’m currently learning **Phyton, JS, CSS, HTML, Kotlin and Java**
