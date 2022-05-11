@@ -1,7 +1,7 @@
 <h1 align="center">Hello Word! I'm Vinícius Santos</h1>
 <h3 align="center">I am currently studying Systems Development and Analysis at FIAP.</h3>
 
-- 🌱 I’m currently focused on learning **Phyton, JS, CSS, HTML, Kotlin and Java**
+- I’m currently focused on learning **Phyton, JS, CSS, HTML, Kotlin and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
