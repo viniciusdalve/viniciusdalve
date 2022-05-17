@@ -1,9 +1,9 @@
 <h1 align="center">Hello Word! I'm Vinícius Santos</h1>
 
-Student of Analysis and Systems Development at FIAP.
+Front-End Developer
 
-- I’m currently focused on learning **HMLT5, CSS, JavaScript, TypeScript, Angular, Bootstrap,** in the Front-End environment
-and learning in parallel about **JAVA, Kotlin, SpringBoot, PostgreSQL, Python** in the Back-End environment.
+- I’m currently focused on learning **HMLT5, CSS, JavaScript, TypeScript, Angular.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
