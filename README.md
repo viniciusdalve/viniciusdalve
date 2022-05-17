@@ -2,7 +2,7 @@
 
 Front-End Developer
 
-HMLT5| CSS | JavaScript | TypeScript | Angular.
+HMLT5 | CSS | JavaScript | TypeScript | Angular.
 
 
 <h3 align="left">Connect with me:</h3>
