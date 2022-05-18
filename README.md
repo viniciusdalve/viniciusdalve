@@ -1,4 +1,4 @@
-<h1 align="center">Hello Word! I'm I'm Vinícius Santos</h1>
+<h1 align="center">Hello Word! I'm Vinícius Santos</h1>
 <h3 align="center">Front-End Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
